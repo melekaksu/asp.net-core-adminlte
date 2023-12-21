@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "melekodev", "melekodev\melekodev.csproj", "{C363E06A-3C4F-4C81-9598-20CCA549FD21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C363E06A-3C4F-4C81-9598-20CCA549FD21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C363E06A-3C4F-4C81-9598-20CCA549FD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C363E06A-3C4F-4C81-9598-20CCA549FD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C363E06A-3C4F-4C81-9598-20CCA549FD21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E973E51-5614-4003-8B96-E6B55B6A5AF8}
+	EndGlobalSection
+EndGlobal
